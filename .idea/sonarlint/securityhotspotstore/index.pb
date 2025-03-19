@@ -13,3 +13,9 @@ S
 #contracts/inspection-scheduler.clar,7/0/70c66ce4804739190cf40beb8cd043be8a374818
 R
 "tests/inspection-scheduler.test.ts,1/9/1932612e562ce1a3a0e33a8cfc3b7724309a1ce8
+R
+"contracts/maintenance-tracker.clar,1/a/1a40bfd811b3745460c453d0c2c4134ce5f1a4b0
+Q
+!tests/maintenance-tracker.test.ts,9/6/96433496f9a2ec8f89d62237b51043c4155c943c
+N
+tests/helpers/clarity-mocks.ts,e/9/e9a7982ef1230b9fc40eccbc22b5a8b3daa7d8e3
